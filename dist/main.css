@@ -1,0 +1,47 @@
+.container {
+  background-color: #D5F3FE;
+  color: #2633B1; }
+
+.signup {
+  height: 75vh;
+  text-align: center; }
+
+.loginPage {
+  text-align: center;
+  height: 75vh; }
+
+h1 {
+  font-size: 3rem; }
+
+h2 {
+  font-size: 2rem; }
+
+input {
+  -webkit-appearance: none;
+  background-color: white;
+  padding: 5px 10px;
+  font-size: 1rem; }
+
+input[type=button] {
+  background-color: white;
+  padding: 5px 10px;
+  font-size: 1rem; }
+
+.createContact {
+  display: inline-block;
+  float: left;
+  width: 45%;
+  margin-left: 5%; }
+
+.createContact form {
+  display: table-caption; }
+
+.SavedContacts {
+  display: inline-block; }
+
+#add {
+  background-color: white;
+  padding: 5px 10px;
+  font-size: 1rem; }
+
+/*# sourceMappingURL=main.css.map */
